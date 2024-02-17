@@ -1,5 +1,5 @@
 // Author: Atul Rajput
-// Date: 18th Feb, 2024
+// Date: 17th Feb, 2024
 // Place: KP 19
 // Problem Statement: WAP to calculate the percentage of a given student in CBSE board exam. His marks from subject 5 must be taken as input from the keyboard (Marks can out of 100 multiplied number subjects).
 import java.util.Scanner;
